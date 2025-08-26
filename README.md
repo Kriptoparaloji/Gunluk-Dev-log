@@ -6,3 +6,4 @@ test: add() için 5 edge-case testi eklendi
 chore: notes/learning.csv güncellendi
 feat(utils): safe_divide(a,b) eklendi, sıfıra bölme koruması
 refactor: math.py içinde basit düzen ve docstringler
+docs: CONTRIBUTING yönergeleri ve commit mesajı stili eklendi
