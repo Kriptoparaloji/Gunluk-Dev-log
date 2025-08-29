@@ -9,3 +9,4 @@ refactor: math.py içinde basit düzen ve docstringler
 docs: CONTRIBUTING yönergeleri ve commit mesajı stili eklendi
 feat(algorithms): two_sum O(n) çözümü eklendi
 test(algorithms): two_sum için örnek testler
+feat(algorithms): palindrome kontrolü (sadece alfanümerik)
