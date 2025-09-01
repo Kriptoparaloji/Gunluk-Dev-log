@@ -12,3 +12,4 @@ test(algorithms): two_sum için örnek testler
 feat(algorithms): palindrome kontrolü (sadece alfanümerik)
 11. refactor(algorithms): palindrome çözümü sadeleştirildi
 12. feat(algorithms): fibonacci(n) iteratif
+13. test: fibonacci için sınır değer testleri
