@@ -14,3 +14,4 @@ feat(algorithms): palindrome kontrolü (sadece alfanümerik)
 12. feat(algorithms): fibonacci(n) iteratif
 13. test: fibonacci için sınır değer testleri
 14. docs: algorithms/README örnek kullanım eklendi
+15. feat(cli): basit komut satırı not ekleyici (notes add)
